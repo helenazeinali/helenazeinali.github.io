@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 625" role="img" aria-labelledby="title">
+<title id="title">تصویر پیش‌فرض قابل جایگزینی برای پروفایل</title>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffeaf1"/><stop offset="1" stop-color="#f8c5d8"/></linearGradient></defs>
+<rect width="500" height="625" fill="url(#bg)"/>
+<circle cx="250" cy="215" r="102" fill="#fff7fa" opacity=".8"/>
+<path d="M90 625 C105 435 160 365 250 365 C340 365 395 435 410 625Z" fill="#fff7fa"/>
+<circle cx="250" cy="215" r="76" fill="#f1b7ce"/>
+<path d="M174 205 C170 118 225 95 272 111 C325 128 340 174 323 222 C310 186 294 164 266 156 C238 184 211 194 174 205Z" fill="#9a637d"/>
+<path d="M224 247 q26 22 52 0" fill="none" stroke="#a66b83" stroke-width="7" stroke-linecap="round"/>
+<circle cx="220" cy="218" r="6" fill="#75485b"/><circle cx="280" cy="218" r="6" fill="#75485b"/>
+<ellipse cx="197" cy="239" rx="14" ry="8" fill="#ee91b2" opacity=".65"/><ellipse cx="303" cy="239" rx="14" ry="8" fill="#ee91b2" opacity=".65"/>
+<path d="M250 60 l8 20 21 8 -21 8 -8 21 -8 -21 -21 -8 21 -8Z" fill="#fff" opacity=".8"/>
+<text x="250" y="555" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#b45d81">YOUR PHOTO HERE</text>
+<text x="250" y="585" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#b45d81">profile-placeholder.svg</text>
+</svg>
